@@ -55,7 +55,8 @@
   "footer": {
     "socials": {
       "discord": "https://discord.gg/DWpB8gNnSc",
-      "youtube": "https://www.youtube.com/@game_studios_sl"
+      "youtube": "https://www.youtube.com/@game_studios_sl",
+      "website": "https://robbyshopping.com"
     }
   },
   "description": "Official docs for the Robby Shopping Roblox game.",
@@ -70,7 +71,8 @@
   },
   "banner": {
     "content": "Robby Shopping is currently in development. Some features may change.",
-    "dismissible": true
+    "dismissible": true,
+    "type": "info"
   },
   "thumbnails": {
     "background": "/logo/Copy_of_Robby-removebg-preview (1).png"
