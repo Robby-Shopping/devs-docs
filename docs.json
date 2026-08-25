@@ -45,12 +45,11 @@
     "options": [
       "copy",
       "view",
+      "download-pdf",
       "chatgpt",
       "claude",
       "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
+      "grok"
     ]
   },
   "footer": {
@@ -75,5 +74,15 @@
   },
   "thumbnails": {
     "background": "/logo/Copy_of_Robby-removebg-preview (1).png"
+  },
+  "redirects": [
+    {
+      "source": "",
+      "destination": "welcome",
+      "permanent": true
+    }
+  ],
+  "metadata": {
+    "timestamp": true
   }
 }
