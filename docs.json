@@ -13,43 +13,12 @@
   },
   "navigation": {
     "pages": [
+      "welcome",
       {
         "group": "Getting Started",
         "pages": [
           "index",
           "quickstart"
-        ]
-      }
-    ],
-    "tabs": [
-      {
-        "tab": "Player Guide",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": []
-          },
-          {
-            "group": "Gameplay",
-            "pages": []
-          },
-          {
-            "group": "Progression",
-            "pages": []
-          },
-          {
-            "group": "Help",
-            "pages": []
-          }
-        ]
-      },
-      {
-        "tab": "Developers",
-        "groups": [
-          {
-            "group": "Overview",
-            "pages": []
-          }
         ]
       }
     ]
